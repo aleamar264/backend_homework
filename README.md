@@ -76,3 +76,7 @@ secret_key = 9085b80b8d587a5b9f32d25162b402ed6fd006b3acf061db
 ## Random number
 
 Also you can retrieve a random number from this [endpoint](http://localhost:8000/get_random_number)
+
+## Utils folder
+
+This folder is other [repository](https://github.com/aleamar264/utils).
