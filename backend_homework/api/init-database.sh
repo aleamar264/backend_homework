@@ -1,0 +1,4 @@
+CREATE USER postgres;
+
+CREATE DATABASE pokebase;
+GRANT ALL PRIVILEGES ON DATABASE pokebase TO postgres;
